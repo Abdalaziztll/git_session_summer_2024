@@ -1,4 +1,4 @@
 void main(List<String> args) {
-  String name = "Hello In Git World";
-  print(name);
+  int counter = 0;
+  print(counter);
 }
